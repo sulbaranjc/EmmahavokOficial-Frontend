@@ -1,0 +1,35 @@
+.home {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.title01 {
+  background-color: rgb(7, 7, 7);
+  opacity: 0.86;
+  color: #eee2e2;
+  border-radius: 20px 20px 20px 20px;
+  font-size: 28px;
+  margin-top: 25px;
+}
+
+.emmafont {
+  font-family: Hitman;
+}
+.title02 {
+  background-color: rgb(7, 7, 7);
+  opacity: 0.86;
+  color: #eee2e2;
+  border-radius: 20px 20px 20px 20px;
+  font-size: 28px;
+  margin-top: 25px;
+}
+
+.plink {
+  color: #eee2e2;
+}
+
+.plink:hover {
+  /* font-size: 29px; */
+  color: white;
+  text-decoration-line: underline;
+}

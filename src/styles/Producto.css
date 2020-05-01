@@ -1,0 +1,6 @@
+.card-p {
+  min-height: 100px;
+}
+.card-a:hover {
+  text-decoration: none;
+}

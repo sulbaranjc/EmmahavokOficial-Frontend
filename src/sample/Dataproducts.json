@@ -1,0 +1,39 @@
+[
+  {
+    "ID": "0",
+    "videotest": "https://www.youtube.com/embed/qf0japdNZ7Q",
+    "title": "Video Historia sobre tu Banda",
+    "charge": "126",
+    "currency": "US $",
+    "paypalValue": "998X7LHB3JUGL",
+    "videoLink": "https://www.youtube.com/watch?v=A0_JkG90meI&list=PLNOrCbbAhKTHJHzDQoqS3XdqHon-pGXnt",
+    "descrip": "Tematica a Eleccion de la banda , Con contenido Multimedia , Estrenalo cuando tu quieras , Difusion por redes sociales"
+  },
+  {
+    "ID": "1",
+    "title": "Promocion subir un video",
+    "charge": "106",
+    "paypalValue": "PTJAVWK94JE4E",
+    "currency": "US $",
+    "videoLink": "https://www.youtube.com/watch?v=A0_JkG90meI&list=PLNOrCbbAhKTHJHzDQoqS3XdqHon-pGXnt",
+    "descrip": "Sube tu Videoclip a nuestro canal y ten un mayor numero de visualizaciones y gana mas seguidores"
+  },
+  {
+    "ID": "2",
+    "title": "Pauta en Video Noticias",
+    "charge": "136",
+    "paypalValue": "ZRP226G4U9MT8",
+    "currency": "US $",
+    "videoLink": "https://www.youtube.com/watch?v=A0_JkG90meI&list=PLNOrCbbAhKTHJHzDQoqS3XdqHon-pGXnt",
+    "descrip": "Alcanza el mayor numero de vistas colocando un video corto dentro de nuestro video de noticias principal de la semana"
+  },
+  {
+    "ID": "3",
+    "title": "Promocion Redes Sociales",
+    "charge": "50",
+    "paypalValue": "G38Q53APAX9KU",
+    "currency": "US $",
+    "videoLink": "https://www.youtube.com/watch?v=A0_JkG90meI&list=PLNOrCbbAhKTHJHzDQoqS3XdqHon-pGXnt",
+    "descrip": "Apalancate con nuestras redes sociale, un post diario por 30 dias alternando Facebook y Twitter"
+  }
+]
