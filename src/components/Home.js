@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 
-import { Card, Container, Col, Row, Image } from "react-bootstrap";
+import { Container, Col, Row, Image } from "react-bootstrap";
 
 import "../styles/home.css";
 
